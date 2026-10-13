@@ -1,3 +1,2 @@
 <?php
-echo "Bonjour Git et PHP !";
-?>
+echo "Bonjour et bienvenue sur la page d'accueil du TP DevOps !";
